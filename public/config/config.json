@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x5db4815dc635925b493372fddd1dcc31142bde8f",
+  "SCAN_LINK": "https://polygonscan.com/token/0x5db4815dc635925b493372fddd1dcc31142bde8f",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Chmln Ape Colony",
+  "SYMBOL": "CAC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 80000000000000000000,
+  "DISPLAY_COST": 80,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/chmlnape",
+  "SHOW_BACKGROUND": true
+}
